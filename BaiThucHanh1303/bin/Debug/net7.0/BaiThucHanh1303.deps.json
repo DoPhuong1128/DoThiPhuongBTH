@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BaiThucHanh1303/1.0.0": {
+        "runtime": {
+          "BaiThucHanh1303.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiThucHanh1303/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
